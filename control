@@ -1,0 +1,9 @@
+Package: com.whited00r.wd7lockscreen
+Name: WD7LockScreen
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: whited00r
+Author: whited00r
+Section: Tweaks
